@@ -12,4 +12,4 @@ Installation of required package
 
 Editing of minimal template
 
-    echo "ssh vim rsync cpio tar gzip bzip2 lzma wget curl ftp" >> /usr/share/live/build/package-lists/minimal
+    echo "ssh vim rsync cpio tar gzip bzip2 lzma wget curl ftp xz-utils alpine-pico e2fsck-static btrfs-tools" >> /usr/share/live/build/package-lists/minimal
