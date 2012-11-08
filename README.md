@@ -6,7 +6,7 @@ Virtualmaster Rescue System
 
 ### Preparing system
 
-Installation of required package
+Installation of required packages
 
     apt-get install live-build
 
